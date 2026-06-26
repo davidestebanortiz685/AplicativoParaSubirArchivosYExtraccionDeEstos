@@ -1,0 +1,1 @@
+Diseñé e implementé un sistema de procesamiento de archivos en la nube usando Microsoft Azure. La arquitectura integra Blob Storage para almacenamiento, Azure SQL Database para persistencia de datos, una Function App en Node.js con trigger automático por eventos, y una máquina virtual Ubuntu como servidor de aplicación. Todo desplegado y configurado desde el portal de Azure.
